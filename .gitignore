@@ -1,0 +1,11 @@
+# Laravel
+gestor-tareasL10/vendor
+gestor-tareasL10/node_modules
+gestor-tareasL10/.env
+
+# React
+gestor-tareas-react/node_modules
+gestor-tareas-react/.env
+
+# Otros
+.DS_Store
