@@ -9,7 +9,7 @@
    php artisan serve
 
 **Frontend (Interfaz Web)** → React + Vite + Tailwind (`gestor-tareas-react`)  
-1.Ir a la carpeta del backend:
+1.Ir a la carpeta del frontend:
    ```bash
    cd gestor-tareas-react
    npm install
